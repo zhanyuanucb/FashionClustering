@@ -11,6 +11,8 @@
   - Input size: the image size are not the same, so I either need to crop or resize them to the same sizes
   - Dimensionality reduction: Given the high dimensionality in images, it would be helpful to do reduction and only keep significant information
   - How to utilise the text information in the item descriptions
+  - Will the background in the images affect the results?
+
 - What are the cases your solution covers, how are they covered and why are they
   important?
   - I deployed two algorithms on this problem:
