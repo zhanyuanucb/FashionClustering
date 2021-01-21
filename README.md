@@ -1,3 +1,10 @@
+- To reproduce:
+  - PCA + K-Means: open and run k-means.ipynb
+  - SCAN: 
+  ```
+  cd Unsupervised-Classification
+  ./run_cluster.sh
+  ```
 - Why are you designing the solution in this way?
   - We are given a collection of images without labels, so I would frame it as a unsupervised image clustering problem.
 - What are the aspects that you considered when designing?
