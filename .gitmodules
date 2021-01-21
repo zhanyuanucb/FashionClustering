@@ -1,0 +1,3 @@
+[submodule "Unsupervised-Classification"]
+	path = Unsupervised-Classification
+	url = git@github.com:zhanyuanucb/Unsupervised-Classification.git
